@@ -1,4 +1,5 @@
 # Part 1 - Conceptual Introduction to Modern CSS Building Blocks
+
 This article is **Part 1** for the series **“Flexbox and CSS Grid”.**
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_F071818CF3B1B881349F6958DF895F7616D0300F6FAAC823C908F39300A5A9EF_1507716842225_cover-1.png)
@@ -49,7 +50,7 @@ Embracing the fluidity of a website design is crucial to a responsive web design
 
 ## To be Continued…
 
-Thanks for following along. Yes no, code practise in this article but I promise this will be the only article in the series that doesn’t have code practise. We will doing lot of coding practise so get ready with all guns blazing. Next up is **Part 2,** where we will cover the **Flex container**.
+Thanks for following along. Yes no, code practise in this article but I promise this will be the only article in the series that doesn’t have code practise. We will doing lot of coding practise so get ready with all guns blazing. [Next](https://tech.io/playgrounds/7394/flexbox-and-css-grid-part--2) up is **Part 2,** where we will cover the **Flex container**.
 
 ## References
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
